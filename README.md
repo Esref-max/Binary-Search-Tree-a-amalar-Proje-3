@@ -13,3 +13,37 @@ Kodluyoruz Eğitimi kapsamında [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-
           /
         1
         
+## 4. 8 ekle: 8, 7'den büyük olduğu için sağ alt ağaçta yer alacak, bu yüzden 7'nin sağına eklenir.
+             7
+            /  \
+           5    8
+          /
+        1
+## 5. 3 ekle: 3, 7'den küçük olduğu için sol alt ağaçta yer alacak, 5'ten de küçük, 1'den büyük olduğu için 1'in sağına eklenir.
+               7
+             /   \
+           5      8
+          / 
+        1   
+          \ 
+            3
+## 6. 6 ekle: 6, 7'den küçük olduğu için sol alt ağaçta yer alacak, 5'ten büyük olduğu için 5'in sağına eklenir.
+               7
+             /   \
+           5      8
+          /   \
+        1      6 
+          \ 
+            3
+
+
+
+
+
+
+
+
+
+
+
+
