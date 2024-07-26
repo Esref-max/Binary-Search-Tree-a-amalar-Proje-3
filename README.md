@@ -36,7 +36,6 @@ Kodluyoruz Eğitimi kapsamında [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-
           \ 
             3
 ## 7. 0 ekle: 0, 7'den küçük olduğu için sol alt ağaçta yer alacak, 5'ten de küçük, 1'den de küçük olduğu için 1'in soluna eklenir.
-
                7
              /   \
            5      8
@@ -45,7 +44,6 @@ Kodluyoruz Eğitimi kapsamında [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-
       /    \ 
      0      3
 ## 8. 9 ekle: 9, 7'den büyük olduğu için sağ alt ağaçta yer alacak, 8'den de büyük olduğu için 8'in sağına eklenir.
-
                7
              /   \
            5      8
@@ -55,9 +53,6 @@ Kodluyoruz Eğitimi kapsamında [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-
      0      3
 
 ## 9. 4 ekle: 4, 7'den küçük olduğu için sol alt ağaçta yer alacak, 5'ten de küçük, 1'den büyük, 3'ten büyük olduğu için 3'ün sağına eklenir.
-
-
-
                7
              /   \
            5      8
@@ -67,6 +62,7 @@ Kodluyoruz Eğitimi kapsamında [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-
      0      3
              \
               4
+  
 
 
 
