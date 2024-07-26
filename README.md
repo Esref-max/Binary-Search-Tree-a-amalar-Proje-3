@@ -73,4 +73,4 @@ Kodluyoruz Eğitimi kapsamında [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-
      0      3
           /  \
          2    4
-
+Bu, verilen diziyi kullanarak oluşturulmuş bir Binary Search Tree (BST) aşamalarının son halidir. 
