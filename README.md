@@ -62,7 +62,15 @@ Kodluyoruz Eğitimi kapsamında [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-
      0      3
              \
               4
-  
+  ## 10. 2 ekle: 2, 7'den küçük olduğu için sol alt ağaçta yer alacak, 5'ten de küçük, 1'den büyük, 3'ten küçük olduğu için 3'ün soluna eklenir.
 
-
+               7
+             /   \
+           5      8
+          /   \    \  
+        1      6    9
+      /    \ 
+     0      3
+          /  \
+         2    4
 
